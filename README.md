@@ -10,7 +10,6 @@ Welcome to the repository for the Hotel Management System project! This project 
   - [Installation](#installation)
 - [System Overview](#system-overview)
 - [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -66,18 +65,6 @@ The Hotel Management System offers the following features:
 - Reporting capabilities for better decision-making.
 
 Feel free to explore the source code and documentation to understand the implementation details of these features.
-
-## Contributing
-
-Contributions to the Hotel Management System project are welcome! If you have any ideas, bug fixes, or improvements, please feel free to fork this repository and submit a pull request with your changes.
-
-When contributing, please adhere to the following guidelines:
-
-- Clearly describe the purpose and functionality of your contributions.
-- Provide comprehensive documentation and usage instructions.
-- Follow the coding style and conventions used in the project.
-
-We appreciate any contributions that enhance the functionality and usability of the Hotel Management System.
 
 ## License
 
