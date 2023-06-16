@@ -8,15 +8,12 @@ Welcome to the repository for the Hotel Management System project! This project 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [System Overview](#system-overview)
-- [Features](#features)
-- [License](#license)
 
 ## Introduction
 
-The Hotel Management System is a desktop application designed to streamline and automate various hotel management tasks. This system provides an intuitive and user-friendly interface for hotel staff to manage reservations, check-ins, check-outs, room availability, billing, and other hotel operations efficiently.
+The Hotel Management System is a desktop application designed to streamline and automate various hotel management tasks. This system provides an intuitive and user-friendly interface for hotel staff to manage reservations, check-ins, check-outs, room availability, and other hotel operations efficiently.
 
-The project utilizes C# as the programming language and .NET as the framework for building the desktop application. The MSSQL database is used to store and manage data related to hotel rooms, reservations, guests, billing, and other relevant information.
+The project utilizes C# as the programming language and .NET as the framework for building the desktop application. The MSSQL database is used to store and manage data.
 
 ## Getting Started
 
@@ -37,35 +34,4 @@ git clone https://github.com/karabunar/hotel-management.git
 2. Open the project in Visual Studio.
 3. Build the solution to restore NuGet packages and compile the application.
 4. Configure the MSSQL database connection settings in the application.
-5. Run the application from Visual Studio or build an executable file for distribution.
-
-## System Overview
-
-The Hotel Management System consists of several modules and functionalities:
-
-1. User Management: Allows the hotel staff to create and manage user accounts with different roles and access levels.
-
-2. Reservation Management: Enables the staff to create, view, and manage guest reservations, including check-in and check-out dates, room selection, and guest details.
-
-3. Room Management: Provides the ability to manage and monitor room availability, assign rooms to guests, and track room maintenance.
-
-4. Billing and Invoicing: Facilitates the generation of bills and invoices for guest stays, additional services, and other charges.
-
-5. Reporting: Generates reports on hotel occupancy, revenue, guest statistics, and other key performance indicators.
-
-## Features
-
-The Hotel Management System offers the following features:
-
-- User-friendly interface for easy navigation and use.
-- Secure user authentication and access control.
-- Real-time room availability status updates.
-- Automated guest check-in and check-out processes.
-- Flexible billing and invoicing options.
-- Reporting capabilities for better decision-making.
-
-Feel free to explore the source code and documentation to understand the implementation details of these features.
-
-## License
-
-The Hotel Management System project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal or commercial purposes. However, please include appropriate attribution and a link back to this repository.
+5. Run the application from Visual Studio or build an executable file for distribution
